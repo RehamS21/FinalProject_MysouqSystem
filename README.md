@@ -116,9 +116,8 @@ So the benefit that each of these users will get is :
 # the technical work
 - Class: Shopper, Orders, Review Marketer, Review Order.
 ## My endpoints is:
-- Get shopper 
 - Add shopper
-- Update
+- Update shopper
 - Delete shopper
 - Shopper select marketer 
 - Get review order 
@@ -132,7 +131,7 @@ So the benefit that each of these users will get is :
 - Get all order 
 - Shopper make order 
 - Shopper add product to order 
-- Calculate product amount 
+- display total amount 
 - Select shipping company 
 - Complete order 
 - Delivered order 
