@@ -74,6 +74,11 @@ So the benefit that each of these users will get is :
 
 - If the order reaches the shopper, he confirms its delivery, and then the order status changes from shipped to delivered.
 
+
+
+
+
+
 ## Tools 
 
 - intellij IDEA
@@ -99,17 +104,39 @@ So the benefit that each of these users will get is :
 ## Figma
 
 [Figma](https://www.figma.com/proto/29jAKsedWTK1xrg2r6RjYM/%D9%85%D9%8F%D8%B3%D9%88%D9%82?type=design&node-id=38-240&t=5DlmXUWUksbPqiwl-0&scaling=min-zoom&page-id=0%3A1)
-# Individual work
-
-# the non - technical work
 
 
+# My Individual work:
+
+# the non - technical work:
+- Presenation Slides
+- Figma (Design HomePage, Shopper flow process)
+- Usecase : Supplier usecase.
 
 # the technical work
-
-
-##My endpoints is:
-     
+- Class: Shopper, Orders, Review Marketer, Review Order.
+## My endpoints is:
+- Get shopper 
+- Add shopper
+- Update
+- Delete shopper
+- Shopper select marketer 
+- Get review order 
+- Add review order 
+- Update review order 
+- Delete review order 
+- Get review marketer 
+- Add review marketer 
+- Update review marketer 
+- Calculate the rate for the marketer 
+- Get all order 
+- Shopper make order 
+- Shopper add product to order 
+- Calculate product amount 
+- Select shipping company 
+- Complete order 
+- Delivered order 
+- Delete order
 
 
 
