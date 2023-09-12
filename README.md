@@ -115,6 +115,7 @@ So the benefit that each of these users will get is :
 
 # the technical work
 - Class: Shopper, Orders, Review Marketer, Review Order.
+- Secuirty Configuration
 ## My endpoints is:
 - Add shopper
 - Update shopper
