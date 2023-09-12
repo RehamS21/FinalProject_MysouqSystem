@@ -129,6 +129,13 @@ So the benefit that each of these users will get is :
 - Presenation Slides
 - Figma (Design HomePage, Shopper flow process)
 - Usecase : Supplier usecase.
+- Class diagram, draw the following classes with its relations:
+Supplier class
+Shopper class
+Review Marketer class
+Review Order class
+make different relations (1:n) (1:1).
+
 
 # the technical work
 - Class: Shopper, Orders, Review Marketer, Review Order.
