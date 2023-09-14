@@ -141,26 +141,27 @@ make different relations (1:n) (1:1).
 - Class: Shopper, Orders, Review Marketer, Review Order.
 - Secuirty Configuration
 ## My endpoints is:
-- Add shopper
-- Update shopper
-- Delete shopper
-- Shopper select marketer 
-- Get review order 
-- Add review order 
-- Update review order 
-- Delete review order 
-- Get review marketer 
-- Add review marketer 
-- Update review marketer 
-- Calculate the rate for the marketer 
-- Get all order 
-- Shopper make order 
-- Shopper add product to order 
-- display total amount 
-- Select shipping company 
-- Complete order 
-- Delivered order 
-- Delete order
+- 1. Marketer gets all shoppers: The marketer can view all shoppers who buy from him 
+3. Shopper complete profile: After the shopper registers, he/she must complete the profile
+4. Shopper update profile: The shopper can update the profile information 
+5. Shopper deletes a profile: The shopper can delete the profile
+6. Shopper select marketer: The shopper selects the marketer to view the marketer profile and buy the product from a marketer 
+7. Shopper makes order: The shopper creates the order when he/she wants to put products on it 
+8. Shopper add product: The shopper adds products to the order 
+9. Shoppers get the total amount: The shopper can view the total amount of products selected 
+10. Shoppers select the shipping company: The shopper can select the shipping company that will ship his/her order 
+11. Shopper completes the order: After selecting the product and determining the shipping company, in this endpoint, the order confirms his/her order, and the system will determine the (order date, and order status “by default processing”) 
+12. Admin updated the order status to delivered 
+13. Shoppers view all his/her review orders 
+14. Shoppers can add a new review order and give the order rate 
+15. Shoppers can update the review order information 
+16. Shopper can delete his/her review order from the system 
+17. Shoppers can view his/her marketer rating 
+18. Shoppers can add rates to the marketers 
+19. Shoppers can update the rate of the marketers 
+20. Shoppers can delete his/her rate to the  marketer 
+21. Marketers can view the average his/her shopper's rating  
+
 
 
 
