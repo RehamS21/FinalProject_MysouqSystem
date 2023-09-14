@@ -141,7 +141,8 @@ make different relations (1:n) (1:1).
 - Class: Shopper, Orders, Review Marketer, Review Order.
 - Secuirty Configuration
 ## My endpoints is:
-- 1. Marketer gets all shoppers: The marketer can view all shoppers who buy from him 
+
+1. Marketer gets all shoppers: The marketer can view all shoppers who buy from him 
 3. Shopper complete profile: After the shopper registers, he/she must complete the profile
 4. Shopper update profile: The shopper can update the profile information 
 5. Shopper deletes a profile: The shopper can delete the profile
@@ -161,7 +162,6 @@ make different relations (1:n) (1:1).
 19. Shoppers can update the rate of the marketers 
 20. Shoppers can delete his/her rate to the  marketer 
 21. Marketers can view the average his/her shopper's rating  
-
 
 
 
